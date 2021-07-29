@@ -9,13 +9,13 @@
 
 <br>
 <div>
-  <a href="https://github.com/linkedin.com/in/alessandra-yamazaki-a2594093">
+  <a href="https://github.com/linkedin.com/in/alessandra-yamazaki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yamazakiale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamazakiale&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
   <div>
-  <a href="https://linkedin.com/in/alessandra-yamazaki-a2594093" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/alessandra-yamazaki" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
 ![Snake animation](https://github.com/Yamazakiale/Yamazakiale/blob/output/github-contribution-grid-snake.svg)
