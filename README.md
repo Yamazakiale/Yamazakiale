@@ -3,7 +3,7 @@
 
 
 - 💻 I'm currently transitioning my career to the DEV world.
-- 📂 I'm currently interested in learning a little bit of everything! 
+- 📂 I'm currently interested in learning a little bit about technology and programming!
 - 🌱 I'm on my way to being a full stack developer.
 - 💗 I have a family that always supports me!💗 👨‍👩‍👧‍👦
 
